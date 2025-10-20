@@ -1,0 +1,11 @@
+{
+    "ID": "7b39b14a-65cc-47de-a601-4fffd6a3c902",
+    "ActionKeyword": "hammer",
+    "Name": "Hammer Units Converter",
+    "Description": "Convert between real-world measurements and Hammer units (Source Engine)",
+    "Author": "Pablo Santillán",
+    "Version": "1.0.0",
+    "Language": "python",
+    "IcoPath": "Images\\app.png",
+    "ExecuteFileName": "main.py"
+}
